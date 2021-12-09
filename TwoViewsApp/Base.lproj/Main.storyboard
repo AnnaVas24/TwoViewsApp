@@ -36,7 +36,6 @@
                             <constraint firstItem="ODW-rp-TjH" firstAttribute="height" secondItem="Loy-pu-7yz" secondAttribute="height" id="sf0-VE-FLc"/>
                             <constraint firstItem="sEI-kc-n42" firstAttribute="trailing" secondItem="ODW-rp-TjH" secondAttribute="trailing" constant="20" id="u2s-al-8O0"/>
                             <constraint firstItem="ODW-rp-TjH" firstAttribute="leading" secondItem="sEI-kc-n42" secondAttribute="leading" constant="20" id="vZU-cd-tJ1"/>
-                            <constraint firstItem="ODW-rp-TjH" firstAttribute="width" secondItem="Loy-pu-7yz" secondAttribute="width" id="ypb-Oh-Cze"/>
                         </constraints>
                     </view>
                 </viewController>
